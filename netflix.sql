@@ -1,4 +1,4 @@
--- Netflix Project
+## Netflix Project
 DROP TABLE IF EXISTS netflix;
 CREATE TABLE netflix 
 (
